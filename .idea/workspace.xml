@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6600368d-97fd-4c63-b101-a21cdca82108" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DartProblemsView" group-by-severity="false" />
+  <component name="FavoritesManager">
+    <favorites_list name="atlantis" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mAfEcQbienYvGyl2k9HpIEbMQx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="C:/src/flutter" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.main.dart" />
+      <item itemvalue="Flutter.main.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6600368d-97fd-4c63-b101-a21cdca82108" name="Default Changelist" comment="" />
+      <created>1608941205646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608941205646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="144" key="#PSD" timestamp="1610057645086">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="144" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1610057645086" />
+    <state x="226" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609818626137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="226" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1609818626137" />
+    <state x="206" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1609468739641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="206" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609468739641" />
+    <state x="501" y="211" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1609818615565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="211" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609818615565" />
+    <state x="283" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609822662250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="283" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1609822662250" />
+    <state x="460" y="127" key="#main.dart" timestamp="1610427065997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="460" y="127" key="#main.dart/0.0.1536.824@0.0.1536.824" timestamp="1610427065997" />
+    <state x="410" y="178" key="AndroidProcessChooserDialog" timestamp="1609393619235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="178" key="AndroidProcessChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609393619235" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1609432923142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1609432923142" />
+    <state x="224" y="154" key="FileChooserDialogImpl" timestamp="1610427060011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="224" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610427060011" />
+    <state width="743" height="187" key="GridCell.Tab.0.bottom" timestamp="1609854138371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="187" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609854138371" />
+    <state width="743" height="187" key="GridCell.Tab.0.center" timestamp="1609854138371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="187" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609854138371" />
+    <state width="743" height="187" key="GridCell.Tab.0.left" timestamp="1609854138371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="187" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609854138371" />
+    <state width="743" height="187" key="GridCell.Tab.0.right" timestamp="1609854138371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="743" height="187" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609854138371" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1610427063540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610427063540" />
+    <state x="100" y="100" width="1044" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1610831273149">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1044" height="624" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1610831273149" />
+    <state x="319" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1610831240398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="319" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610831240398" />
+    <state x="426" y="187" key="run.anything.popup" timestamp="1609818666153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1609818666153" />
+  </component>
+</project>
